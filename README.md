@@ -1,4 +1,7 @@
-# SalesAnalysis
+# Pandas-Data-Science-Tasks
+Set of real world data science tasks completed using the Python Pandas library.
+
+# Background Information:
 
 We start by cleaning our data. Tasks during this section include:
 
@@ -14,7 +17,7 @@ We start by cleaning our data. Tasks during this section include:
 #### which product sold the most? Why do you think it sold the most?
 To answer these questions we walk through many different pandas & matplotlib methods. They include:
 
-##  Concatenating multiple csv's together to create a new DataFrame (pd.concat)
+####  Concatenating multiple csv's together to create a new DataFrame (pd.concat)
 #### Adding columns
 #### Parsing cells as strings to make new columns (.str)
 #### Using the .apply() method
